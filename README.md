@@ -13,7 +13,7 @@ If you win, you can play again by clicking the 'Again' button. Your highscore wi
 If your score drops to 0, yu lose, and will have to play again to redeem yourself. 
 
 ## Features 
-+ Channel your favorite search algorithim 
++ Channel your favorite search algorithm 
 + Reset the game any time
 + Try to beat your high score
 + Playful prompts to guide your guess
